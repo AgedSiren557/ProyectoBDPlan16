@@ -1,0 +1,1856 @@
+
+
+ LOG file opened at 02/02/21 02:37:50
+
+Total Number of Files=1
+
+Data File: proovedor_ext.csv
+
+Log File: proovedor_ext.log
+
+
+
+ LOG file opened at 02/02/21 02:37:50
+
+Bad File: proovedor_ext_bad.log
+
+Field Definitions for table PROOVEDOR_EXT
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    NOMBRE                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    NUMERO                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    TELEFONO                        CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+
+
+ LOG file opened at 02/02/21 02:38:10
+
+Total Number of Files=1
+
+Data File: proovedor_ext.csv
+
+Log File: proovedor_ext.log
+
+
+
+ LOG file opened at 02/02/21 02:38:10
+
+Bad File: proovedor_ext_bad.log
+
+Field Definitions for table PROOVEDOR_EXT
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    NOMBRE                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    NUMERO                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    TELEFONO                        CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+
+
+ LOG file opened at 02/02/21 02:41:02
+
+Total Number of Files=1
+
+Data File: proovedor_ext.csv
+
+Log File: proovedor_ext.log
+
+
+
+ LOG file opened at 02/02/21 02:41:02
+
+Bad File: proovedor_ext_bad.log
+
+Field Definitions for table PROOVEDOR_EXT
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    NOMBRE                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    NUMERO                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    TELEFONO                        CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+
+
+ LOG file opened at 02/02/21 04:28:29
+
+Total Number of Files=1
+
+Data File: proovedor_ext.csv
+
+Log File: proovedor_ext.log
+
+
+
+ LOG file opened at 02/02/21 04:28:29
+
+Bad File: proovedor_ext_bad.log
+
+Field Definitions for table PROOVEDOR_EXT
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    NOMBRE                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    NUMERO                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    TELEFONO                        CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+
+
+ LOG file opened at 02/02/21 22:00:10
+
+Total Number of Files=1
+
+Data File: proovedor_ext.csv
+
+Log File: proovedor_ext.log
+
+
+
+ LOG file opened at 02/02/21 22:00:10
+
+Bad File: proovedor_ext_bad.log
+
+Field Definitions for table PROOVEDOR_EXT
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    NOMBRE                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    NUMERO                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    TELEFONO                        CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+
+
+ LOG file opened at 02/02/21 23:28:53
+
+Total Number of Files=1
+
+Data File: proovedor_ext.csv
+
+Log File: proovedor_ext.log
+
+
+
+ LOG file opened at 02/02/21 23:28:53
+
+Bad File: proovedor_ext_bad.log
+
+Field Definitions for table PROOVEDOR_EXT
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    NOMBRE                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    NUMERO                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    TELEFONO                        CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+
+
+ LOG file opened at 02/02/21 23:31:15
+
+Total Number of Files=1
+
+Data File: proovedor_ext.csv
+
+Log File: proovedor_ext.log
+
+
+
+ LOG file opened at 02/02/21 23:31:15
+
+Bad File: proovedor_ext_bad.log
+
+Field Definitions for table PROOVEDOR_EXT
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    NOMBRE                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    NUMERO                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    TELEFONO                        CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+
+
+ LOG file opened at 02/02/21 23:36:26
+
+Total Number of Files=1
+
+Data File: proovedor_ext.csv
+
+Log File: proovedor_ext.log
+
+
+
+ LOG file opened at 02/02/21 23:36:26
+
+Bad File: proovedor_ext_bad.log
+
+Field Definitions for table PROOVEDOR_EXT
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    NOMBRE                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    NUMERO                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    TELEFONO                        CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+
+
+ LOG file opened at 02/02/21 23:41:17
+
+Total Number of Files=1
+
+Data File: proovedor_ext.csv
+
+Log File: proovedor_ext.log
+
+
+
+ LOG file opened at 02/02/21 23:41:17
+
+Bad File: proovedor_ext_bad.log
+
+Field Definitions for table PROOVEDOR_EXT
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    NOMBRE                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    NUMERO                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    TELEFONO                        CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+
+
+ LOG file opened at 02/02/21 23:46:00
+
+Total Number of Files=1
+
+Data File: proovedor_ext.csv
+
+Log File: proovedor_ext.log
+
+
+
+ LOG file opened at 02/02/21 23:46:00
+
+Bad File: proovedor_ext_bad.log
+
+Field Definitions for table PROOVEDOR_EXT
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    NOMBRE                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    NUMERO                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    TELEFONO                        CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+
+
+ LOG file opened at 02/02/21 23:51:18
+
+Total Number of Files=1
+
+Data File: proovedor_ext.csv
+
+Log File: proovedor_ext.log
+
+
+
+ LOG file opened at 02/02/21 23:51:19
+
+Bad File: proovedor_ext_bad.log
+
+Field Definitions for table PROOVEDOR_EXT
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    NOMBRE                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    NUMERO                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    TELEFONO                        CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+
+
+ LOG file opened at 02/03/21 00:04:56
+
+Total Number of Files=1
+
+Data File: proovedor_ext.csv
+
+Log File: proovedor_ext.log
+
+
+
+ LOG file opened at 02/03/21 00:04:57
+
+Bad File: proovedor_ext_bad.log
+
+Field Definitions for table PROOVEDOR_EXT
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    NOMBRE                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    NUMERO                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    TELEFONO                        CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+
+
+ LOG file opened at 02/03/21 00:06:39
+
+Total Number of Files=1
+
+Data File: proovedor_ext.csv
+
+Log File: proovedor_ext.log
+
+
+
+ LOG file opened at 02/03/21 00:06:39
+
+Bad File: proovedor_ext_bad.log
+
+Field Definitions for table PROOVEDOR_EXT
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    NOMBRE                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    NUMERO                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    TELEFONO                        CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+
+
+ LOG file opened at 02/03/21 00:11:21
+
+Total Number of Files=1
+
+Data File: proovedor_ext.csv
+
+Log File: proovedor_ext.log
+
+
+
+ LOG file opened at 02/03/21 00:11:21
+
+Bad File: proovedor_ext_bad.log
+
+Field Definitions for table PROOVEDOR_EXT
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    NOMBRE                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    NUMERO                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    TELEFONO                        CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+
+
+ LOG file opened at 02/03/21 00:18:36
+
+Total Number of Files=1
+
+Data File: proovedor_ext.csv
+
+Log File: proovedor_ext.log
+
+
+
+ LOG file opened at 02/03/21 00:18:36
+
+Bad File: proovedor_ext_bad.log
+
+Field Definitions for table PROOVEDOR_EXT
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    NOMBRE                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    NUMERO                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    TELEFONO                        CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+
+
+ LOG file opened at 02/03/21 00:21:24
+
+Total Number of Files=1
+
+Data File: proovedor_ext.csv
+
+Log File: proovedor_ext.log
+
+
+
+ LOG file opened at 02/03/21 00:21:24
+
+Bad File: proovedor_ext_bad.log
+
+Field Definitions for table PROOVEDOR_EXT
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    NOMBRE                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    NUMERO                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    TELEFONO                        CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+
+
+ LOG file opened at 02/03/21 01:11:20
+
+Total Number of Files=1
+
+Data File: proovedor_ext.csv
+
+Log File: proovedor_ext.log
+
+
+
+ LOG file opened at 02/03/21 01:11:20
+
+Bad File: proovedor_ext_bad.log
+
+Field Definitions for table PROOVEDOR_EXT
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    NOMBRE                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    NUMERO                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    TELEFONO                        CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+
+
+ LOG file opened at 02/03/21 01:11:33
+
+Total Number of Files=1
+
+Data File: proovedor_ext.csv
+
+Log File: proovedor_ext.log
+
+
+
+ LOG file opened at 02/03/21 01:11:33
+
+Bad File: proovedor_ext_bad.log
+
+Field Definitions for table PROOVEDOR_EXT
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    NOMBRE                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    NUMERO                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    TELEFONO                        CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+
+
+ LOG file opened at 02/03/21 03:26:53
+
+Total Number of Files=1
+
+Data File: proovedor_ext.csv
+
+Log File: proovedor_ext.log
+
+
+
+ LOG file opened at 02/03/21 03:26:53
+
+Bad File: proovedor_ext_bad.log
+
+Field Definitions for table PROOVEDOR_EXT
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    NOMBRE                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    NUMERO                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    TELEFONO                        CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+
+
+ LOG file opened at 02/03/21 03:30:08
+
+Total Number of Files=1
+
+Data File: proovedor_ext.csv
+
+Log File: proovedor_ext.log
+
+
+
+ LOG file opened at 02/03/21 03:30:08
+
+Bad File: proovedor_ext_bad.log
+
+Field Definitions for table PROOVEDOR_EXT
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    NOMBRE                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    NUMERO                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    TELEFONO                        CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+
+
+ LOG file opened at 02/03/21 21:05:00
+
+Total Number of Files=1
+
+Data File: proovedor_ext.csv
+
+Log File: proovedor_ext.log
+
+
+
+ LOG file opened at 02/03/21 21:05:00
+
+Bad File: proovedor_ext_bad.log
+
+Field Definitions for table PROOVEDOR_EXT
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    NOMBRE                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    NUMERO                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    TELEFONO                        CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+
+
+ LOG file opened at 02/03/21 22:00:07
+
+Total Number of Files=1
+
+Data File: proovedor_ext.csv
+
+Log File: proovedor_ext.log
+
+
+
+ LOG file opened at 02/03/21 22:00:07
+
+Bad File: proovedor_ext_bad.log
+
+Field Definitions for table PROOVEDOR_EXT
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    NOMBRE                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    NUMERO                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    TELEFONO                        CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+
+
+ LOG file opened at 02/03/21 22:30:06
+
+Total Number of Files=1
+
+Data File: proovedor_ext.csv
+
+Log File: proovedor_ext.log
+
+
+
+ LOG file opened at 02/03/21 22:30:06
+
+Bad File: proovedor_ext_bad.log
+
+Field Definitions for table PROOVEDOR_EXT
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    NOMBRE                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    NUMERO                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    TELEFONO                        CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+
+
+ LOG file opened at 02/03/21 22:43:49
+
+Total Number of Files=1
+
+Data File: proovedor_ext.csv
+
+Log File: proovedor_ext.log
+
+
+
+ LOG file opened at 02/03/21 22:43:49
+
+Bad File: proovedor_ext_bad.log
+
+Field Definitions for table PROVEEDOR_EXT
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    NOMBRE                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    NUMERO                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    TELEFONO                        CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+
+
+ LOG file opened at 02/03/21 22:44:37
+
+Total Number of Files=1
+
+Data File: proovedor_ext.csv
+
+Log File: proovedor_ext.log
+
+
+
+ LOG file opened at 02/03/21 22:44:37
+
+Bad File: proovedor_ext_bad.log
+
+Field Definitions for table PROVEEDOR_EXT
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    NOMBRE                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    NUMERO                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    TELEFONO                        CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+
+
+ LOG file opened at 02/03/21 23:06:35
+
+Total Number of Files=1
+
+Data File: proovedor_ext.csv
+
+Log File: proovedor_ext.log
+
+
+
+ LOG file opened at 02/03/21 23:06:35
+
+Bad File: proovedor_ext_bad.log
+
+Field Definitions for table PROVEEDOR_EXT
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    NOMBRE                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    NUMERO                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    TELEFONO                        CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+
+
+ LOG file opened at 02/03/21 23:56:42
+
+Total Number of Files=1
+
+Data File: proovedor_ext.csv
+
+Log File: proovedor_ext.log
+
+
+
+ LOG file opened at 02/03/21 23:56:42
+
+Bad File: proovedor_ext_bad.log
+
+Field Definitions for table PROVEEDOR_EXT
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    NOMBRE                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    NUMERO                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    TELEFONO                        CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+
+
+ LOG file opened at 02/04/21 02:09:50
+
+Total Number of Files=1
+
+Data File: proovedor_ext.csv
+
+Log File: proovedor_ext.log
+
+
+
+ LOG file opened at 02/04/21 02:09:50
+
+Bad File: proovedor_ext_bad.log
+
+Field Definitions for table PROVEEDOR_EXT
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    NOMBRE                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    NUMERO                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    TELEFONO                        CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+
+
+ LOG file opened at 02/04/21 02:09:55
+
+Total Number of Files=1
+
+Data File: proovedor_ext.csv
+
+Log File: proovedor_ext.log
+
+
+
+ LOG file opened at 02/04/21 02:09:55
+
+Bad File: proovedor_ext_bad.log
+
+Field Definitions for table PROVEEDOR_EXT
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    NOMBRE                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    NUMERO                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    TELEFONO                        CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+
+
+ LOG file opened at 02/04/21 02:10:42
+
+Total Number of Files=1
+
+Data File: proovedor_ext.csv
+
+Log File: proovedor_ext.log
+
+
+
+ LOG file opened at 02/04/21 02:10:42
+
+Bad File: proovedor_ext_bad.log
+
+Field Definitions for table PROVEEDOR_EXT
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    NOMBRE                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    NUMERO                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    TELEFONO                        CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+
+
+ LOG file opened at 02/04/21 02:11:21
+
+Total Number of Files=1
+
+Data File: proovedor_ext.csv
+
+Log File: proovedor_ext.log
+
+
+
+ LOG file opened at 02/04/21 02:11:21
+
+Bad File: proovedor_ext_bad.log
+
+Field Definitions for table PROVEEDOR_EXT
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    NOMBRE                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    NUMERO                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    TELEFONO                        CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+
+
+ LOG file opened at 02/04/21 22:00:21
+
+Total Number of Files=1
+
+Data File: proovedor_ext.csv
+
+Log File: proovedor_ext.log
+
+
+
+ LOG file opened at 02/04/21 22:00:21
+
+Bad File: proovedor_ext_bad.log
+
+Field Definitions for table PROVEEDOR_EXT
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    NOMBRE                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    NUMERO                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    TELEFONO                        CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+
+
+ LOG file opened at 02/05/21 04:26:15
+
+Total Number of Files=1
+
+Data File: proovedor_ext.csv
+
+Log File: proovedor_ext.log
+
+
+
+ LOG file opened at 02/05/21 04:26:15
+
+Bad File: proovedor_ext_bad.log
+
+Field Definitions for table PROVEEDOR_EXT
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    NOMBRE                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    NUMERO                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    TELEFONO                        CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+
+
+ LOG file opened at 02/05/21 04:26:20
+
+Total Number of Files=1
+
+Data File: proovedor_ext.csv
+
+Log File: proovedor_ext.log
+
+
+
+ LOG file opened at 02/05/21 04:26:20
+
+Bad File: proovedor_ext_bad.log
+
+Field Definitions for table PROVEEDOR_EXT
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    NOMBRE                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    NUMERO                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    TELEFONO                        CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+
+
+ LOG file opened at 02/05/21 04:32:14
+
+Total Number of Files=1
+
+Data File: proovedor_ext.csv
+
+Log File: proovedor_ext.log
+
+
+
+ LOG file opened at 02/05/21 04:32:14
+
+Bad File: proovedor_ext_bad.log
+
+Field Definitions for table PROVEEDOR_EXT
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    NOMBRE                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    NUMERO                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    TELEFONO                        CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+
+
+ LOG file opened at 02/05/21 04:32:18
+
+Total Number of Files=1
+
+Data File: proovedor_ext.csv
+
+Log File: proovedor_ext.log
+
+
+
+ LOG file opened at 02/05/21 04:32:18
+
+Bad File: proovedor_ext_bad.log
+
+Field Definitions for table PROVEEDOR_EXT
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    NOMBRE                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    NUMERO                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    TELEFONO                        CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+
+
+ LOG file opened at 02/05/21 04:33:42
+
+Total Number of Files=1
+
+Data File: proovedor_ext.csv
+
+Log File: proovedor_ext.log
+
+
+
+ LOG file opened at 02/05/21 04:33:42
+
+Bad File: proovedor_ext_bad.log
+
+Field Definitions for table PROVEEDOR_EXT
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    NOMBRE                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    NUMERO                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    TELEFONO                        CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+
+
+ LOG file opened at 02/05/21 04:33:45
+
+Total Number of Files=1
+
+Data File: proovedor_ext.csv
+
+Log File: proovedor_ext.log
+
+
+
+ LOG file opened at 02/05/21 04:33:45
+
+Bad File: proovedor_ext_bad.log
+
+Field Definitions for table PROVEEDOR_EXT
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    NOMBRE                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    NUMERO                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    TELEFONO                        CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+
+
+ LOG file opened at 02/05/21 19:08:20
+
+Total Number of Files=1
+
+Data File: proovedor_ext.csv
+
+Log File: proovedor_ext.log
+
+
+
+ LOG file opened at 02/05/21 19:08:20
+
+Bad File: proovedor_ext_bad.log
+
+Field Definitions for table PROVEEDOR_EXT
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    NOMBRE                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    NUMERO                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    TELEFONO                        CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+
+
+ LOG file opened at 02/05/21 19:08:24
+
+Total Number of Files=1
+
+Data File: proovedor_ext.csv
+
+Log File: proovedor_ext.log
+
+
+
+ LOG file opened at 02/05/21 19:08:24
+
+Bad File: proovedor_ext_bad.log
+
+Field Definitions for table PROVEEDOR_EXT
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    NOMBRE                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    NUMERO                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    TELEFONO                        CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+
+
+ LOG file opened at 02/05/21 19:17:55
+
+Total Number of Files=1
+
+Data File: proovedor_ext.csv
+
+Log File: proovedor_ext.log
+
+
+
+ LOG file opened at 02/05/21 19:17:55
+
+Bad File: proovedor_ext_bad.log
+
+Field Definitions for table PROVEEDOR_EXT
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    NOMBRE                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    NUMERO                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    TELEFONO                        CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+
+
+ LOG file opened at 02/05/21 19:18:00
+
+Total Number of Files=1
+
+Data File: proovedor_ext.csv
+
+Log File: proovedor_ext.log
+
+
+
+ LOG file opened at 02/05/21 19:18:00
+
+Bad File: proovedor_ext_bad.log
+
+Field Definitions for table PROVEEDOR_EXT
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    NOMBRE                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    NUMERO                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    TELEFONO                        CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+
+
+ LOG file opened at 02/05/21 20:40:52
+
+Total Number of Files=1
+
+Data File: proovedor_ext.csv
+
+Log File: proovedor_ext.log
+
+
+
+ LOG file opened at 02/05/21 20:40:52
+
+Bad File: proovedor_ext_bad.log
+
+Field Definitions for table PROVEEDOR_EXT
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    NOMBRE                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    NUMERO                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    TELEFONO                        CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+
+
+ LOG file opened at 02/05/21 20:40:57
+
+Total Number of Files=1
+
+Data File: proovedor_ext.csv
+
+Log File: proovedor_ext.log
+
+
+
+ LOG file opened at 02/05/21 20:40:57
+
+Bad File: proovedor_ext_bad.log
+
+Field Definitions for table PROVEEDOR_EXT
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    NOMBRE                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    NUMERO                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    TELEFONO                        CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+
+
+ LOG file opened at 02/05/21 20:46:30
+
+Total Number of Files=1
+
+Data File: proovedor_ext.csv
+
+Log File: proovedor_ext.log
+
+
+
+ LOG file opened at 02/05/21 20:46:30
+
+Bad File: proovedor_ext_bad.log
+
+Field Definitions for table PROVEEDOR_EXT
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    NOMBRE                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    NUMERO                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    TELEFONO                        CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+
+
+ LOG file opened at 02/05/21 20:46:35
+
+Total Number of Files=1
+
+Data File: proovedor_ext.csv
+
+Log File: proovedor_ext.log
+
+
+
+ LOG file opened at 02/05/21 20:46:35
+
+Bad File: proovedor_ext_bad.log
+
+Field Definitions for table PROVEEDOR_EXT
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    NOMBRE                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    NUMERO                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    TELEFONO                        CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+
+
+ LOG file opened at 02/05/21 21:07:27
+
+Total Number of Files=1
+
+Data File: proovedor_ext.csv
+
+Log File: proovedor_ext.log
+
+
+
+ LOG file opened at 02/05/21 21:07:27
+
+Bad File: proovedor_ext_bad.log
+
+Field Definitions for table PROVEEDOR_EXT
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    NOMBRE                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    NUMERO                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    TELEFONO                        CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+
+
+ LOG file opened at 02/05/21 21:07:32
+
+Total Number of Files=1
+
+Data File: proovedor_ext.csv
+
+Log File: proovedor_ext.log
+
+
+
+ LOG file opened at 02/05/21 21:07:32
+
+Bad File: proovedor_ext_bad.log
+
+Field Definitions for table PROVEEDOR_EXT
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    NOMBRE                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    NUMERO                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    TELEFONO                        CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+
+
+ LOG file opened at 02/06/21 14:46:24
+
+Total Number of Files=1
+
+Data File: proovedor_ext.csv
+
+Log File: proovedor_ext.log
+
+
+
+ LOG file opened at 02/06/21 14:46:24
+
+Bad File: proovedor_ext_bad.log
+
+Field Definitions for table PROVEEDOR_EXT
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    NOMBRE                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    NUMERO                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    TELEFONO                        CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+
+
+ LOG file opened at 02/06/21 14:47:49
+
+Total Number of Files=1
+
+Data File: proovedor_ext.csv
+
+Log File: proovedor_ext.log
+
+
+
+ LOG file opened at 02/06/21 14:47:49
+
+Bad File: proovedor_ext_bad.log
+
+Field Definitions for table PROVEEDOR_EXT
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    NOMBRE                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    NUMERO                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    TELEFONO                        CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+
+
+ LOG file opened at 02/06/21 15:01:27
+
+Total Number of Files=1
+
+Data File: proovedor_ext.csv
+
+Log File: proovedor_ext.log
+
+
+
+ LOG file opened at 02/06/21 15:01:27
+
+Bad File: proovedor_ext_bad.log
+
+Field Definitions for table PROVEEDOR_EXT
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    NOMBRE                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    NUMERO                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    TELEFONO                        CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+
+
+ LOG file opened at 02/06/21 15:01:33
+
+Total Number of Files=1
+
+Data File: proovedor_ext.csv
+
+Log File: proovedor_ext.log
+
+
+
+ LOG file opened at 02/06/21 15:01:33
+
+Bad File: proovedor_ext_bad.log
+
+Field Definitions for table PROVEEDOR_EXT
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    NOMBRE                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    NUMERO                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    TELEFONO                        CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+
+
+ LOG file opened at 02/06/21 15:45:59
+
+Total Number of Files=1
+
+Data File: proovedor_ext.csv
+
+Log File: proovedor_ext.log
+
+
+
+ LOG file opened at 02/06/21 15:45:59
+
+Bad File: proovedor_ext_bad.log
+
+Field Definitions for table PROVEEDOR_EXT
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    NOMBRE                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    NUMERO                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    TELEFONO                        CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+
+
+ LOG file opened at 02/06/21 16:12:14
+
+Total Number of Files=1
+
+Data File: proovedor_ext.csv
+
+Log File: proovedor_ext.log
+
+
+
+ LOG file opened at 02/06/21 16:12:14
+
+Bad File: proovedor_ext_bad.log
+
+Field Definitions for table PROVEEDOR_EXT
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    NOMBRE                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    NUMERO                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    TELEFONO                        CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+
+
+ LOG file opened at 02/06/21 16:12:22
+
+Total Number of Files=1
+
+Data File: proovedor_ext.csv
+
+Log File: proovedor_ext.log
+
+
+
+ LOG file opened at 02/06/21 16:12:22
+
+Bad File: proovedor_ext_bad.log
+
+Field Definitions for table PROVEEDOR_EXT
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    NOMBRE                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    NUMERO                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    TELEFONO                        CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+
+
+ LOG file opened at 02/06/21 16:14:04
+
+Total Number of Files=1
+
+Data File: proovedor_ext.csv
+
+Log File: proovedor_ext.log
+
+
+
+ LOG file opened at 02/06/21 16:14:04
+
+Bad File: proovedor_ext_bad.log
+
+Field Definitions for table PROVEEDOR_EXT
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    NOMBRE                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    NUMERO                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    TELEFONO                        CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+
+
+ LOG file opened at 02/06/21 16:14:05
+
+Total Number of Files=1
+
+Data File: proovedor_ext.csv
+
+Log File: proovedor_ext.log
+
+
+
+ LOG file opened at 02/06/21 16:14:05
+
+Bad File: proovedor_ext_bad.log
+
+Field Definitions for table PROVEEDOR_EXT
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    NOMBRE                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    NUMERO                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    TELEFONO                        CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+
+
+ LOG file opened at 02/06/21 16:15:55
+
+Total Number of Files=1
+
+Data File: proovedor_ext.csv
+
+Log File: proovedor_ext.log
+
+
+
+ LOG file opened at 02/06/21 16:15:55
+
+Bad File: proovedor_ext_bad.log
+
+Field Definitions for table PROVEEDOR_EXT
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    NOMBRE                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    NUMERO                          CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
+    TELEFONO                        CHAR (255)
+      Terminated by ","
+      Trim whitespace from left and right
